@@ -1,9 +1,10 @@
 import "./App.css";
+import VendorList from "./components/VendorList";
 
 function App() {
   return (
     <>
-      <h1 class="text-3xl font-bold underline bg-amber-500">Hello world!</h1>
+      <VendorList/>
     </>
   );
 }

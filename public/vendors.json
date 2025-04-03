@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Speedy Car Wash",
+    "category": "Car Wash",
+    "location": "Mumbai",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1640580086296-a6664d19d23d?q=80&w=1931&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Home Sparkle Cleaning",
+    "category": "Home Cleaning",
+    "location": "Delhi",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Grocers Hub",
+    "category": "General Store",
+    "location": "Bangalore",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1565061828011-282424b9ab40?w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "The Fresh Bakery",
+    "category": "Bakery",
+    "location": "Pune",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Green Leaf Vegetables",
+    "category": "Organic Store",
+    "location": "Hyderabad",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1661713093950-89ff279c6610?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8T3JnYW5pYyUyMFN0b3JlfGVufDB8fDB8fHwy"
+  },
+  {
+    "id": 6,
+    "name": "Shiny Auto Repair",
+    "category": "Car Repair",
+    "location": "Kolkata",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1735361039382-d78a0a0cc185?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhciUyMHJlcGFpciUyMHZlbmRvcnxlbnwwfHwwfHx8Mg%3D%3D"
+  },
+  {
+    "id": 7,
+    "name": "TechFix Mobile Repair",
+    "category": "Mobile Repair",
+    "location": "Chennai",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1658212700861-693ed40a573b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c21hcnQlMjBwaG9uZSUyMHJlcGFpciUyMHZlbmRvcnxlbnwwfHwwfHx8Mg%3D%3D"
+  },
+  {
+    "id": 8,
+    "name": "Glitz Beauty Salon",
+    "category": "Beauty Salon",
+    "location": "Jaipur",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1633681926022-84c23e8cb2d6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QmVhdXR5JTIwc2Fsb258ZW58MHx8MHx8fDI%3D"
+  },
+  {
+    "id": 9,
+    "name": "Sunset Cafe & Bistro",
+    "category": "Cafe",
+    "location": "Goa",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Zen Yoga Studio",
+    "category": "Fitness",
+    "location": "Mumbai",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1623874514711-0f321325f318?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Z3ltfGVufDB8fDB8fHwy"
+  }
+]
