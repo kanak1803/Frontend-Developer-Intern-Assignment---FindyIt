@@ -1,10 +1,12 @@
+import { Toaster } from "react-hot-toast";
 import "./App.css";
 import VendorList from "./components/VendorList";
 
 function App() {
   return (
     <>
-      <VendorList/>
+      <Toaster position="top-right" reverseOrder={false} />
+      <VendorList />
     </>
   );
 }

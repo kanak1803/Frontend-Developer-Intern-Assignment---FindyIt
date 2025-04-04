@@ -1,6 +1,14 @@
 import React from "react";
+import toast from "react-hot-toast";
 
 const VendorCard = ({ vendor }) => {
+  const handleContactClick = () => {
+    console.log("Button clicked!");
+    toast.success("Contact feature coming soon!", {
+      duration: 2000,
+      position: "top-right",
+    });
+  };
   return (
     <>
       <div className="border p-4 rounded-lg shadow-lg bg-white">
@@ -20,7 +28,7 @@ const VendorCard = ({ vendor }) => {
         {/* Contact Button */}
         <button
           className="mt-2 bg-blue-500 text-white px-4 py-2 rounded"
-          onClick={() => alert("Contact feature coming soon!")}
+          onClick={handleContactClick}
         >
           Contact
         </button>
