@@ -25,7 +25,7 @@ const SearchBar = ({ searchTerm, setSearchTerm }) => {
       {/* Clear Button */}
       {searchTerm && (
         <button
-          className="absolute inset-y-0 right-3 flex items-center text-gray-500 hover:text-gray-700 transition-all duration-200"
+          className="absolute inset-y-0 right- flex items-center text-white"
           onClick={handleClear}
           aria-label="Clear search"
         >

@@ -97,7 +97,7 @@ const VendorList = () => {
           {(searchTerm || selectedCategory) && (
             <button
               onClick={handleClearFilters}
-              className="bg-gray-100 hover:bg-gray-200 text-gray-700 px-4 py-2 rounded-lg transition-colors duration-200"
+              className="bg-gray-100 hover:bg-gray-200 text-white 0 px-4 py-2 rounded-lg transition-colors duration-200"
             >
               Clear Filters
             </button>
@@ -123,7 +123,7 @@ const VendorList = () => {
         </div>
       </div>
 
-      {/* Vendor Cards */}
+      {/* Vendor Card */}
       {filteredVendors.length > 0 ? (
         <motion.div
           className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 
